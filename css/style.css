@@ -1,0 +1,150 @@
+div{
+
+  position: relative;
+  padding-top: 25px;
+}
+body{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+
+}
+.top{
+  background-color: #FFD6EC;
+}
+h1{
+  margin: 150px auto 0 auto;
+  /* padding-top: 111px; */
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #FF597B;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #FF597B;
+  font-weight: bold;
+}
+
+h3{
+  color: #FF8E9E;
+}
+
+a{
+  color: #FF8E9E;
+}
+
+.bottom-cloud{
+  position: absolute;
+
+}
+.top-cloud{
+  position: absolute;
+  right:500px;
+  top:50px;
+}
+
+p{
+  line-height: 2;
+}
+
+.middle{
+
+}
+
+.bottom-container{
+ background-color: #FF597B;
+ /* height: 150px; */
+ /* margin-top: 100px; */
+ padding: 50px 0 20px;
+}
+
+.Gupchup{
+  width: 25%;
+  /* length: 200px; */
+  float: right;
+  padding: 0 30px;
+}
+
+.mypic{
+  border-radius: 100%;
+  height: 250px;
+  width: 200px;
+}
+
+.skill{
+  width: 25%;
+  /* length: 200px; */
+  float: left;
+  padding: 0 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+.dev{
+  text-decoration: underline;
+}
+
+hr{
+  border-style: dotted;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  border-color:#CE7777;
+  border-width: 7px;
+  width: 5%;
+
+}
+.footer-link{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.footer-link:hover{
+  color: white;
+}
+
+.footer-text{
+  margin-top: 40px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: white;
+}
+
+.contact-text{
+  padding-bottom: 40px;
+}
+.btn{
+  margin: 40px;
+  padding: 10px;
+  /* margin-top:100px; */
+  border-radius: 8px;
+  border-style: solid;
+  background-image: linear-gradient(#FFD6EC,#FF597B);
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-me{
+  height: 300px;
+}
